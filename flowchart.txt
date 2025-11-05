@@ -1,0 +1,40 @@
+1. Importing the packages
+2. Exploring the dataset 
+3. Data processing
+	- Using Pandas Dataframe
+4. Visualization using seaborn & matplotlib
+	- Based on different Column Data
+5. Label Processing
+	- Label Encoder from object to int
+6. Feature Selection 
+	- Appending the Data to X_train and y_train
+7. Data Splitting to train and test
+8. Building the model
+	- Logistic Regression
+	- LGBM
+	- XGBoost
+	- CAtBoost
+	- Voting Classifier - LG + XG + CAT
+	- Voting Classifier - LG + XG
+	- Voting Classifier - XG + CAT
+	- Voting Classifier - LG + CAT
+    	- ANN - MLP
+	- Decision Tree
+	- Stacking CLassifier
+	- Random Forest
+
+9. Training and Building the model 
+
+9. Flask Framework with Sqlite for signup and signin
+10. Importing the packages
+11. User gives input
+12. The given input is preprocessed for prediction
+13. Trained model is used for prediction
+14. Final outcome is displayed through frontend
+
+Extension
+----------
+In the base paper the author mentions to following models like LR, LGBM, XGB, CatBoost and Votinfg Classifier with 
+different Combination from which voting classifier got of 99% accuracy,
+As extension we are going to apply RF, DT and Stacking Classifier  for analysis the dataset, 
+Along with that we provide frontend for analysis and prediction of user input.
